@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to download an extension and its dependencies written by Richard A. Rost July 7,2019
-# Modified by Esteban M. Navas Martín, Mar 2017
+# Modified by Esteban M. Navas Martín, Mar 2025
 # The script downloads to the directory you are in when you start the script.
 # It creates a directory with the extension name passed as parameter
 # There are no Tinycore specific commands, variables, or directories required so it should work
